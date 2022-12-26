@@ -19,6 +19,22 @@ a {
   color: inherit;
 }
 
+.btn {
+  width: 256px;
+  height: 64px;
+  border: 1px solid #111;
+  background-color: #fff;
+  color: #111;
+  text-align: center;
+  line-height: 64px;
+  font-size: 18px;
+}
+
+.btn_dark {
+  background-color: #111;
+  color: #fff;
+}
+
 body {
   font-family: "Poppins", sans-serif;
   /* font-family: 'Montserrat', sans-serif; */
@@ -88,6 +104,6 @@ body {
 
 .slide .text_box {
   position: absolute;
-  top: 0;
+  bottom: 100px;
   left: 0;
 }
