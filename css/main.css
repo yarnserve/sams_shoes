@@ -35,6 +35,10 @@ a {
   color: #fff;
 }
 
+.btn_full {
+  width: 100%;
+}
+
 body {
   font-family: "Poppins", sans-serif;
   /* font-family: 'Montserrat', sans-serif; */
